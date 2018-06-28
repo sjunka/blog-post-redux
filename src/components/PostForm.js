@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import  PropTypes  from "prop-types";
+import  propTypes  from "prop-types";
 
 
 import { connect } from "react-redux";
@@ -67,8 +67,8 @@ class PostForm extends Component {
     }
 }
 
-PostForm.PropTypes = {
-    createPost: PropTypes.func.isRequired,
+PostForm.propTypes = {
+    createPost: propTypes.func.isRequired,
 }
 
 export default connect(null, {createPost})(PostForm);

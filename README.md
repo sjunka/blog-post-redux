@@ -1,8 +1,9 @@
+
 # Blog Post Project
 
-### Exercise for validatin React & Redux skills
+### Exercise for validating React & Redux skills
 
-## Goal: Build a "Blog Post aplication" using **React** & **Redux**.  
+## Goal: Build a "Blog Post application" using **React** & **Redux**.  
 
 Key features: 
 
@@ -11,3 +12,14 @@ Key features:
 
 2. Use reusable components for Blogging architecture
 
+3. Implement **Redux** cycle with Actions and Reducers
+
+4. Legitimize props via propTypes 
+
+
+
+### End product images
+
+![alt text](https://i.imgur.com/hqpKqEZ.png "Post Listed")
+
+![alt text](https://i.imgur.com/oeOfB3i.png "Post Added")

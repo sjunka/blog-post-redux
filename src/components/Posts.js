@@ -1,6 +1,6 @@
 //React imports
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import propTypes from 'prop-types';
 
 //Redux imports
 import { connect } from 'react-redux';
@@ -36,10 +36,10 @@ class Posts extends Component {
   }
 }
 
-Posts.PropTypes = {
-  fetchPosts: PropTypes.func.isRequired,
-  posts: PropTypes.array.isRequired,
-  newPost: PropTypes.object
+Posts.propTypes = {
+  fetchPosts: propTypes.func.isRequired,
+  posts: propTypes.array.isRequired,
+  newPost: propTypes.object
   
 }
 
