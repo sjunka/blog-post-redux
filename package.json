@@ -1,6 +1,6 @@
 {
     "name": "blog-post-redux",
-    "homepage": "http://sjunka.github.io/myapp",
+    "homepage": "http://sjunka.github.io/blog-post-redux",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
